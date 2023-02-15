@@ -9,4 +9,9 @@ These mods will only work on Opera GX Version 94 or higher (?)
 ## Mod List
 ### Detroit (1.0.0)
 Simulates detroit in your browser. <br>
-⚠️ WARNING: LOUD ⚠️
+⚠️ WARNING: LOUD ⚠️ <br>
+#### Features:
+- Keyboard sounds
+- Browser sounds (new tab, close tab, etc.)
+- Wallpaper
+- Background Music
