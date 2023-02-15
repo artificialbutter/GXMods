@@ -1,0 +1,117 @@
+{
+    "description": "detroit simulation",
+    "developer":
+    {
+        "name": "artificial"
+    },
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "background_music":
+            [
+                "music/detroit.mp3"
+            ],
+            "browser_sounds":
+            {
+                "CLICK":
+                [
+                    "sound/gun.mp3"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "sound/gun.mp3"
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "sound/gun.mp3"
+                ],
+                "HOVER":
+                [
+                    "sound/gun.mp3"
+                ],
+                "HOVER_UP":
+                [
+                    "sound/gun.mp3"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    "sound/gun.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    "sound/gun.mp3"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sound/gun.mp3"
+                ],
+                "LIMITER_ON":
+                [
+                    "sound/gun.mp3"
+                ],
+                "SWITCH_TOGGLE":
+                [
+                    "sound/gun.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sound/gun.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "sound/gun.mp3"
+                ],
+                "TAB_SLASH":
+                [
+                    "sound/gun.mp3"
+                ]
+            },
+            "keyboard_sounds":
+            {
+                "TYPING_BACKSPACE":
+                [
+                    "keyboard/gun.mp3"
+                ],
+                "TYPING_ENTER":
+                [
+                    "keyboard/gun.mp3"
+                ],
+                "TYPING_LETTER":
+                [
+                    "keyboard/gun.mp3",
+                    "keyboard/gun.mp3",
+                    "keyboard/gun.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    "keyboard/gun.mp3"
+                ]
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/detroit.png",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/detroit.png",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "name": "detroit",
+    "version": "1.0"
+}
